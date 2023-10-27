@@ -27,9 +27,8 @@ dist-ssr
 *.json
  
 
-vite.config.js
-
 *.md
+*.cjs
 
 *.config.js
 
@@ -39,4 +38,4 @@ vite.config.js
 
 .eslintrc.cjs
 
-public
+public/
