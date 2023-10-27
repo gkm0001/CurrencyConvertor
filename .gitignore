@@ -23,19 +23,19 @@ dist-ssr
 *.sln
 *.sw?
 
-package.json
 
-package-lock.json
+*.json
+ 
 
 vite.config.js
 
-README.md 
+*.md
+
+*.config.js
 
 .gitignore
 
-postcss.config.js
-
-tailwind.config.js
+ 
 
 .eslintrc.cjs
 
